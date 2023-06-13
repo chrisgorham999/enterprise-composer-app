@@ -2,10 +2,10 @@
 ======================================
 ; Title: about.component.ts
 ; Author: Chris Gorham
-; Date: 12 June 2023
-; Description: This code supports functionality for the about component of the reactive composer app
+; Date: 13 June 2023
+; Description: This code supports functionality for the about component of the enterprise composer app
 ; Sources Used:
-; Exercise 4.3 Instructions
+; Assignment 4.4 Instructions
 ;=====================================
 */
 

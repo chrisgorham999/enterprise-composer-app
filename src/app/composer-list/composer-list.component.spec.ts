@@ -2,10 +2,10 @@
 ======================================
 ; Title: composer-list.component.spec.ts
 ; Author: Chris Gorham
-; Date: 12 June 2023
-; Description: This code supports functionality for the composer-list component of the reactive composer app
+; Date: 13 June 2023
+; Description: This code supports functionality for the composer-list component of the enterprise composer app
 ; Sources Used:
-; Exercise 4.3 Instructions
+; Assignment 4.4 Instructions
 ;=====================================
 */
 

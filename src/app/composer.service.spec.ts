@@ -2,10 +2,10 @@
 ======================================
 ; Title: composer.service.spec.ts
 ; Author: Chris Gorham
-; Date: 12 June 2023
-; Description: This code supports functionality for the reactive composer app for exercise 4.3
+; Date: 13 June 2023
+; Description: This code supports functionality for the enterprise composer app for assignment 4.4
 ; Sources Used:
-; Exercise 4.3 Instructions
+; Assignment 4.4 Instructions
 ;=====================================
 */
 
